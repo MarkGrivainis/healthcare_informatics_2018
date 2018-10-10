@@ -29,7 +29,7 @@ Packages:
 + pytorch
 + jupyter
 
-#### For mac use this command to install pytorch for python 3.6 and anaconda
+#### For mac use this command to install pytorch for python and anaconda
 
 This is due to mac laptops not having Nvidia gpus and therefore they cannot run CUDA.
 

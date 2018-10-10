@@ -109,3 +109,11 @@ venv.bak/
 .mypy_cache/
 .dmypy.json
 dmypy.json
+
+
+#Images
+/Data
+*.zip
+
+# Swap Files
+*.swp
