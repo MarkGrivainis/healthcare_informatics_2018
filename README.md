@@ -20,6 +20,16 @@ Install CUDA 9.2 (V9.2.148)
 
 Using Nvidia Driver Version: 396.54
 
+Packages:
++ seaborn
++ numpy
++ pandas
++ scikit-image
++ scikit-learn
++ pytorch
++ jupyter
+
+### THIS DOES NOT WORK, IGNORE
 The Python dependencies are listed in the requirements.txt file.
 
 The following command will install all the required packages
