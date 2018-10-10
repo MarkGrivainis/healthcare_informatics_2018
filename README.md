@@ -29,6 +29,14 @@ Packages:
 + pytorch
 + jupyter
 
+#### For mac use this command to install pytorch for python 3.6 and anaconda
+
+This is due to mac laptops not having Nvidia gpus and therefore they cannot run CUDA.
+
+```console
+conda install pytorch torchvision -c pytorch
+```
+
 ### THIS DOES NOT WORK, IGNORE
 The Python dependencies are listed in the requirements.txt file.
 
